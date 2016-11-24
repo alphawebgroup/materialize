@@ -1,6 +1,6 @@
 {
   "name"        : "alphawebgroup/materialize",
-  "type"        : "drupal-library",
+  "type"        : "library",
   "description" : "Materialize framework.",
   "homepage"    : "http://materializecss.com/",
   "authors"     : [
