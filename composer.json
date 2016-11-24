@@ -1,0 +1,16 @@
+{
+  "name"        : "alphawebgroup/materialize",
+  "type"        : "drupal-library",
+  "description" : "Materialize framework.",
+  "homepage"    : "http://materializecss.com/",
+  "authors"     : [
+    {
+      "name"     : "",
+      "email"    : ""
+    }
+  ],
+  "license" : "MIT",
+  "require": {
+    "oomphinc/composer-installers-extender" : "v1.1.*"
+  }
+}
